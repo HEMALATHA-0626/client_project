@@ -1,5 +1,4 @@
-# client_project
-Design tokens for Client project
+
 #  Client Design Projects Portfolio
 
 Welcome to my design portfolio. This repository contains multiple UI/UX and graphic design projects created using Figma and canva.
